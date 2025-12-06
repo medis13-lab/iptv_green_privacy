@@ -39,7 +39,7 @@ supprimer toute playlist importée depuis l'interface de l'app.
 L'application utilise potentiellement les services suivants : Google Play Services, Firebase (si activé). Ces services disposent de leurs propres politiques de confidentialité.
 
 9. Contact
-Pour toute question relative à cette politique, contactez le développeur : [EMAIL_DÉVELOPPEUR].
+Pour toute question relative à cette politique, contactez le développeur : [medis13@gmail.com].
 
 Remarque : Google Play exige une URL publique vers votre politique de confidentialité. Hébergez ce fichier (index.html) sur GitHub Pages, Google Sites, ou votre hébergement, puis collez l'URL dans la console Google Play.
 © IPTV GREEN — Tous droits réservés.
