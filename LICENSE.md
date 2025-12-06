@@ -1,6 +1,6 @@
 IPTV GREEN
 Politique de confidentialité
-Dernière mise à jour : [À REMPLIR]
+Dernière mise à jour : [2025]
 Nous vous remercions d’utiliser IPTV GREEN. Cette politique explique quelles données nous pouvons collecter, comment nous les utilisons et les options dont vous disposez. En utilisant l’application, vous acceptez les pratiques décrites ci‑dessous.
 
 1. Données collectées
